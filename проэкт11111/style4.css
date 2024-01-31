@@ -1,0 +1,16 @@
+@import url('');
+ul{
+    list-style-type: none;
+    display: flex ;
+    justify-content: space-between;
+}
+body{
+    background-color: #ffeeb8;
+}
+header, main, footer{
+    background-color: #e5ff00 ;
+    width: 768px ;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+}
